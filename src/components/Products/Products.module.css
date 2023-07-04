@@ -42,4 +42,7 @@
     overflow-y: scroll;
     grid-gap: 2rem;
     justify-content: space-between;
+    text-align: center;
+    background-color: wheat;
+    border-radius: 20px;
 }
